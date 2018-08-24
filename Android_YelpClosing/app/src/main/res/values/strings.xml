@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ClosingBusiness</string>
+    <string name="stars">Stars</string>
+    <string name="review_count">Review count</string>
+    <string name="mean">Mean</string>
+    <string name="number_of_reviews">Number of Reviews</string>
+    <string name="total_checkins">Total Checkins</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="name">Name</string>
+    <string name="median">Median</string>
+    <string name="predict">Predict</string>
 </resources>
